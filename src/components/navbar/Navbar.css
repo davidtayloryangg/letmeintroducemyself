@@ -1,0 +1,11 @@
+.NavigationBar header{
+    background-color: #1d1d1f;
+}
+.NavigationBar a,div{
+    background: #1d1d1f;
+    color: rgb(226, 220, 220);
+}
+.NavigationBar a:hover {
+    background: #333;
+    color: #fff;
+}
